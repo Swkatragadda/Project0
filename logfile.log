@@ -1,0 +1,70 @@
+INFO	2024-01-29 11:19:32,456	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 11:21:47,232	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 11:22:01,983	14751	org.example.Service.ToDoListService	[main]	Attempting to display task.
+INFO	2024-01-29 11:22:17,831	30599	org.example.Service.ToDoListService	[main]	Attempting to remove a task.
+INFO	2024-01-29 11:53:47,268	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 11:53:47,272	4	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 11:54:00,255	12987	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 11:54:00,255	12987	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 11:54:22,750	35482	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 11:54:22,750	35482	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 11:54:33,327	46059	org.example.Service.ToDoListService	[main]	Attempting to display task.
+INFO	2024-01-29 11:54:33,332	46064	org.example.Service.ToDoListService	[main]	displaying the task
+INFO	2024-01-29 11:54:39,631	52363	org.example.Service.ToDoListService	[main]	Exit the To do list.
+INFO	2024-01-29 11:59:35,178	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 11:59:35,178	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 15:40:05,577	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 15:40:05,577	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 15:40:17,168	11591	org.example.Service.ToDoListService	[main]	Attempting to remove a task.
+INFO	2024-01-29 15:40:17,168	11591	org.example.Service.ToDoListService	[main]	Removing the task
+INFO	2024-01-29 15:40:32,100	26523	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 15:40:32,100	26523	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 15:40:33,772	28195	org.example.Service.ToDoListService	[main]	Attempting to display task.
+INFO	2024-01-29 15:40:33,772	28195	org.example.Service.ToDoListService	[main]	displaying the task
+INFO	2024-01-29 18:45:07,663	0	org.example.Service.ToDoListService	[main]	Exit the To do list.
+INFO	2024-01-29 18:45:56,102	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:45:56,102	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:46:08,359	12257	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:46:08,359	12257	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:46:23,511	27409	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:46:23,526	27424	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:46:28,032	31930	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:46:28,032	31930	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:46:34,359	38257	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:46:34,359	38257	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:46:47,155	51053	org.example.Service.ToDoListService	[main]	Attempting to remove a task.
+INFO	2024-01-29 18:46:47,155	51053	org.example.Service.ToDoListService	[main]	Removing the task
+INFO	2024-01-29 18:46:54,847	58745	org.example.Service.ToDoListService	[main]	Attempting to remove a task.
+INFO	2024-01-29 18:46:54,847	58745	org.example.Service.ToDoListService	[main]	Removing the task
+INFO	2024-01-29 18:55:33,299	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:55:33,299	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:56:00,409	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:56:00,409	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:56:26,738	26329	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:56:26,738	26329	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:56:29,947	29538	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:56:29,947	29538	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 18:56:32,765	32356	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 18:56:32,765	32356	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:14:25,490	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 20:14:25,490	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:15:25,815	60325	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 20:15:25,815	60325	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:15:28,844	63354	org.example.Service.ToDoListService	[main]	Attempting to display task.
+INFO	2024-01-29 20:15:28,844	63354	org.example.Service.ToDoListService	[main]	displaying the task
+INFO	2024-01-29 20:15:49,905	84415	org.example.Service.ToDoListService	[main]	Invalid choice: {0}
+INFO	2024-01-29 20:27:15,017	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 20:27:15,017	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:28:34,068	0	org.example.Service.ToDoListService	[main]	Attempting to remove a task.
+INFO	2024-01-29 20:28:34,068	0	org.example.Service.ToDoListService	[main]	Removing the task
+INFO	2024-01-29 20:37:33,934	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 20:37:33,937	3	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:40:58,803	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 20:40:58,803	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:41:01,828	3025	org.example.Service.ToDoListService	[main]	Attempting to display task.
+INFO	2024-01-29 20:41:01,844	3041	org.example.Service.ToDoListService	[main]	displaying the task
+INFO	2024-01-29 20:43:27,386	0	org.example.Service.ToDoListService	[main]	Attempting to remove a task.
+INFO	2024-01-29 20:43:27,386	0	org.example.Service.ToDoListService	[main]	Removing the task
+INFO	2024-01-29 20:44:41,236	0	org.example.Service.ToDoListService	[main]	Attempting to add a task.
+INFO	2024-01-29 20:44:41,236	0	org.example.Service.ToDoListService	[main]	Entering the task
+INFO	2024-01-29 20:44:44,062	2826	org.example.Service.ToDoListService	[main]	Invalid choice: {0}
